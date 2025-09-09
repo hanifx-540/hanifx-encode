@@ -18,7 +18,17 @@ It provides an easy-to-use interface for encoding text, generating deterministic
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+use --
 
+## HanifX Encode – Demo Screenshots
+
+![Demo 1](assets/Screenshot_20250909_185907_com_termux_TermuxActivity.jpg)
+
+![Demo 2](assets/Screenshot_20250909_185931_com_termux_TermuxActivity.jpg)
+
+![Demo 3](assets/Screenshot_20250909_190012_com_termux_TermuxActivity.jpg)
+
+![Demo 4](assets/Screenshot_20250909_190021_com_termux_TermuxActivity.jpg)
 ---
 
 ## Installation
